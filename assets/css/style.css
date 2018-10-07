@@ -1,0 +1,10 @@
+.jumbotron {
+    /* background-image: url('../images/train-clipart.jpg'); */
+    background-image: url("./../images/train-clipart.jpg");
+
+    background-size: cover;
+}
+
+.text-center{
+    color: white;
+}
