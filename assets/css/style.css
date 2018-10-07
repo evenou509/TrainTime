@@ -8,3 +8,18 @@
 .text-center{
     color: white;
 }
+
+h1 {
+    color: white;
+    font: 300 5vmin/5vh cookie, cursive;
+    text-align: center;
+    mix-blend-mode: difference;
+}
+
+h3 {
+    color: white;
+    font: 100 5vmin/10vh cookie, cursive;
+    text-align: center;
+    mix-blend-mode: difference;
+}
+
